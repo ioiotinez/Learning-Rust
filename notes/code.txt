@@ -1,0 +1,2 @@
+unwrap: en caso de error finaliza el programa. No espera objeto Result.
+parse: el compilador detecta el tipo de la variable para realizar el parseo.
